@@ -8,7 +8,7 @@
 
 Projeto criado para praticar CSS Grid.
 
-Para acessar o projeto, basta [clicar aqui]('https://danieldpalma.github.io/wildbeast/').
+Para acessar o projeto, basta [clicar aqui](https://danieldpalma.github.io/wildbeast/).
 
 Projeto feito pelo curso da [Origamid](https://www.origamid.com/).
 
